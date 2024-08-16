@@ -1,6 +1,6 @@
 # LunarRun CI
 
-![Project Logo](./images/logo.png)
+<img src="./images/logo.png" alt="LunarRun Logo" width="300"/>
 
 ## Overview
 
