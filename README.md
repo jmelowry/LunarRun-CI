@@ -1,7 +1,7 @@
 
 <p align="center">
 <img src="./images/logo.png" alt="LunarRun Logo" height="200"/>
-<h2 align="center"><i><b>// LunarRun CI \\</b></i></h2>
+<h1 align="center" style="font-family: 'Courier New', Courier, monospace; color: #FF1493;"><i><b>/// LunarRun CI \\\</b></i></h1>
 </p>
 
 ## Overview
