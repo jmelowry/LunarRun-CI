@@ -1,7 +1,7 @@
 
 <p align="center">
 <img src="./images/logo.png" alt="LunarRun Logo" height="200"/>
-<h1 align="center"><i><b>||| LunarRun CI |||</b></i></h1>
+<h1 align="center"><b><i>|||</i> LunarRun CI <i>|||</i></b></h1>
 </p>
 
 ## Overview
