@@ -6,7 +6,7 @@
 
 ## Overview
 
-**LunarRun CI** is a CI/CD pipeline system designed to streamline and accelerate your development workflows. By focusing on efficiency, flexibility, and precision, it enables teams to seamlessly integrate and deliver their software with confidence.
+**LunarRun CI** is a CI pipeline system designed to streamline and accelerate your development workflows. By focusing on efficiency, flexibility, and precision, it enables teams to seamlessly integrate and deliver their software with confidence.
 
 ### Key Features
 
