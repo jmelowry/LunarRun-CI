@@ -1,6 +1,8 @@
-# LunarRun CI
 
-<img src="./images/logo.png" alt="LunarRun Logo" width="300"/>
+<p align="center">
+<img src="./images/logo.png" alt="LunarRun Logo" height="200"/>
+<h3>LunarRun CI</h3>
+</p>
 
 ## Overview
 
