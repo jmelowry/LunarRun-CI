@@ -14,6 +14,9 @@
 - **High Performance**: Optimized for speed, the system handles complex workflows with minimal overhead, helping you get from code commit to deployment faster.
 - **Flexible Workflows**: Adaptable to various project needs, it allows you to define and customize pipelines that fit your team's specific requirements.
 
+### Design
+![LunarRun-CI system design](images/design.webm)
+
 ## License
 
 This project is licensed under the [MIT License](./LICENSE).
