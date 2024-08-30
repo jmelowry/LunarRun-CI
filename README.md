@@ -15,7 +15,7 @@
 - **Flexible Workflows**: Adaptable to various project needs, it allows you to define and customize pipelines that fit your team's specific requirements.
 
 ### Design
-![LunarRun-CI system design](./images/design.webm)
+![LunarRun-CI system design](./images/design.gif)
 
 <video width="320" height="240" controls>
   <source src="./images/design.webm" type="video/webm">
